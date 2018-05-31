@@ -1,0 +1,10 @@
+C:\Users\User\projects\ChatDbObjects\ChatDbObjects\bin\Debug\netstandard2.0\ChatDbObjects.deps.json
+C:\Users\User\projects\ChatDbObjects\ChatDbObjects\bin\Debug\netstandard2.0\ChatDbObjects.dll
+C:\Users\User\projects\ChatDbObjects\ChatDbObjects\bin\Debug\netstandard2.0\ChatDbObjects.pdb
+C:\Users\User\projects\ChatDbObjects\ChatDbObjects\obj\Debug\netstandard2.0\ChatDbObjects.csprojResolveAssemblyReference.cache
+C:\Users\User\projects\ChatDbObjects\ChatDbObjects\obj\Debug\netstandard2.0\ChatDbObjects.csproj.ResolveComReference.cache
+C:\Users\User\projects\ChatDbObjects\ChatDbObjects\obj\Debug\netstandard2.0\ChatDbObjects.csproj.CoreCompileInputs.cache
+C:\Users\User\projects\ChatDbObjects\ChatDbObjects\obj\Debug\netstandard2.0\ChatDbObjects.AssemblyInfoInputs.cache
+C:\Users\User\projects\ChatDbObjects\ChatDbObjects\obj\Debug\netstandard2.0\ChatDbObjects.AssemblyInfo.cs
+C:\Users\User\projects\ChatDbObjects\ChatDbObjects\obj\Debug\netstandard2.0\ChatDbObjects.dll
+C:\Users\User\projects\ChatDbObjects\ChatDbObjects\obj\Debug\netstandard2.0\ChatDbObjects.pdb
